@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @255hp
+- 👋 Hi, I’m bright jumbe
 - 👀 I’m interested in ...software engineering
-- 🌱 I’m currently learning ...alx software engineering program
+- 🌱 I’m currently learn game development
 - 💞️ I’m looking to collaborate on ...pears
 - 📫 How to reach me ...brightjumbe919@gmail.com
 
